@@ -7,9 +7,9 @@ Aplicativo de Quiz interativo desenvolvido em **Flutter** + **Dart**, com design
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot1.png" width="32%" alt="Tela Inicial">
-  <img src="assets/screenshots/screenshot2.png" width="32%" alt="Tela do Quiz">
-  <img src="assets/screenshots/screenshot3.png" width="32%" alt="Tela de Resultado">
+  <img src="assets/screenshots/screenshot1.jpeg" width="32%" alt="Tela Inicial">
+  <img src="assets/screenshots/screenshot2.jpeg" width="32%" alt="Tela do Quiz">
+  <img src="assets/screenshots/screenshot3.jpeg" width="32%" alt="Tela de Resultado">
 </p>
 
 ---
