@@ -36,8 +36,26 @@ Aplicativo de Quiz interativo desenvolvido em **Flutter** + **Dart**, com design
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 📂 Estrutura de Pastas
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/othongustavo99/meu-quiz.git
+- `lib/` → Código fonte principal
+- `assets/image/` → Imagens e logo
+- `lib/data/` → Perguntas e dados
+- `lib/models/` → Modelos de dados
+- `lib/` → Telas (start, quiz, result...)
+
+---
+
+## 🎯 Próximos Passos
+
+- Sistema de categorias
+- Modo desafio com timer
+- Leaderboard local
+- Temas dark/light
+- Suporte a múltiplos idiomas
+
+---
+
+**Desenvolvido com ❤️ por Othon Gustavo**
+
+⭐ Se gostou do projeto, não esquece de dar uma estrela!
